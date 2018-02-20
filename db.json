@@ -1,0 +1,22 @@
+[
+ {
+ id:1,
+ name:'John',
+ position:'Android Developer'
+ },
+
+ {
+ id:2,
+ name:'Michael',
+ position:'Web Developer'
+ 
+ }
+ 
+ {
+  id:3,
+  name:'Roth',
+  position:'Jew Gangster'
+ 
+ }
+
+]
